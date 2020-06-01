@@ -1,6 +1,8 @@
 # Paint-Box-CSharp
 WinForms application, which repeats some of the functions provided by microsoft paint
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/SimplePaint.PNG?raw=true)
+
 Simple paint box. Paint analog based on winforms.
 Further, i will shortly describe main functions of this app.
 
@@ -20,19 +22,25 @@ adds it to the hierarchy. (DragNDrop is also avaible)
 
 * Redo (toolstrip) - cancels the last cancellation 
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/UpperToolBar.PNG?raw=true)
+
 -Main tab page:
 
 ###################### Pen/Size section ######################
 
 1.) Lines. You can change their color, size and style by using upper tab control.
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/PenLine.PNG?raw=true)
+
 * Size of the line can be changed by using numeric Up/Down element.
 
 * When you choose color, the programm will automatically change your cursor to pen mode, so if
 you for instance have been using formbuilder and then decided to change the color, programm will
-change your cursor from form drawing to line drawing.
+change your cursor from form drawing to line drawing
 
 2.) Fast access color panel. Panel which will store colors and add new if it is neeeded,
+
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Lines.PNG?raw=true)
 
 * You can also remove color, which you don't need. First you need to choose it and then
 click right mouse button and choose remove button.
@@ -40,24 +48,36 @@ click right mouse button and choose remove button.
 3.) ColorChanger. It will allow you to choose color from bigger amount of variants, if 
 the color is not already in the fast access panel, it will be added to it.
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/ColorChoose.PNG?raw=true)
+
 4.) Pipette. Instrument, which allows you to gain color of the specific location on the image and
 then use it. This function also adds color to the fast access panel, if it isn't there.
 
 If you change the size of the app, Pen/Size section will shorten itself to fit in.
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/SizeAdapt.PNG?raw=true)
+
 ###################### Style-Form section ######################
 
 1.) Pen style. It is style of the pen, or the borders of the figures you can draw.
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/PenLine.PNG?raw=true)
+
 2.) Figure style. It can have draw or fill style.
 
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Style.PNG?raw=true)
+
 3.) Forms. Allows you to draw line, rectangle, ellipse or put text in specific position.
+
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Forms.PNG?raw=true)
 
 *Text has it own form in which you will edit it and choose font and color.
 
 ----------------------------------------------------------------------------------------------------------------
 
 What is hierarchy window?
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 It is used for storing all the objects you draw in the specific order.
 The objects which have the large id number are the ones, which were painted last, and that
