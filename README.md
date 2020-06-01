@@ -63,7 +63,7 @@ If you change the size of the app, Pen/Size section will shorten itself to fit i
 
 ![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/PenLine.PNG?raw=true)
 
-2.) Figure/Pen style. The type of the life and fill mode can be chosen here.
+2.) Figure/Pen style. The type of the line and figure fill mode can be chosen here.
 
 ![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Style.PNG?raw=true)
 
