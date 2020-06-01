@@ -80,9 +80,9 @@ What is hierarchy window?
 ![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Hierachy.PNG?raw=true)
 
 It is used for storing all the objects you draw in the specific order.
-The objects which have the large id number are the ones, which were painted last, and that
+The objects which have the biggest id number are the ones, which were painted last, and that
 also means they are on the foreground. And of course the ones, which are close to the first number are on the
 background.
 
-By using hierarchy window, you change position of the element (Move it upper or lower in hierarchy or remove it).
-You can do that by choosing the element, which will be highlighted, and pressing the right mouse button.
+By using hierarchy window, you change position of the element (Move it upper or lower in the hierarchy or remove it).
+You can do that by choosing the element, which will be highlighted after that, and pressing the right mouse button.
