@@ -63,7 +63,7 @@ If you change the size of the app, Pen/Size section will shorten itself to fit i
 
 ![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/PenLine.PNG?raw=true)
 
-2.) Figure style. It can have draw or fill style.
+2.) Figure/Pen style. The type of the life and fill mode can be chosen here.
 
 ![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Style.PNG?raw=true)
 
@@ -77,7 +77,7 @@ If you change the size of the app, Pen/Size section will shorten itself to fit i
 
 What is hierarchy window?
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Sturmik/Paint-Box-CSharp/blob/master/ShowcaseImages/Hierachy.PNG?raw=true)
 
 It is used for storing all the objects you draw in the specific order.
 The objects which have the large id number are the ones, which were painted last, and that
